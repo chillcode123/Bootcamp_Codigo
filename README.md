@@ -19,18 +19,18 @@ Funcionalidades:
 
 Clases desarrolladas:
 - Especialidad
-    Nombre
+    * Nombre
 - Paciente
-    Dni
-    Nombre
-    NroHistoria
+    * Dni
+    * Nombre
+    * NroHistoria
 - Hospital
-    Lista de Pacientes
-    Lista de Especialidades
-    Lista de Doctores
+    * Lista de Pacientes
+    * Lista de Especialidades
+    * Lista de Doctores
 - CitaMedica
-    Id
-    Paciente
-    Especialidad
-    Doctor
-    Horario
+    * Id
+    * Paciente
+    * Especialidad
+    * Doctor
+    * Horario
