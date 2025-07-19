@@ -1,4 +1,5 @@
 Descripcion de ConsoleApp004: Sistema de gestion de hospital
+
 Funcionalidades:
 - Registrar paciente
     * Solicita los datos necesarios para registrar un nuevo paciente (Dni, Nombre)
